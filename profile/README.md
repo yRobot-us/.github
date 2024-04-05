@@ -49,7 +49,7 @@ Enjoy all the benefits of our monthly plan with an annual discount.
 
 ## Join ŷRobot Today
 
-Be part of the AI revolution in trading. With ŷRobot, you're not just trading; you're setting the path for the future of investment. Check out our [AI Returns page](#) to see the success and profitability of our models.
+Be part of the AI revolution in trading. With ŷRobot, you're not just trading; you're setting the path for the future of investment. Check out our [AI Returns page](https://yrobot.us/ai-returns) to see the success and profitability of our models.
 
 ### Contact Us
 For more information and support, contact us at support@yrobot.us.
