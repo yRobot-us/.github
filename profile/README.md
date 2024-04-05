@@ -56,8 +56,7 @@ For more information and support, contact us at support@yrobot.us.
 
 ### Follow Us
 Stay updated with our latest developments and insights:
-- [About Us](#)
-- [Subscriptions](#)
-- [Blog](#)
-- [Privacy Policy](#)
+- [Twitter](https://twitter.com/yRobotus)
+- [Youtube](https://www.youtube.com/@yrobot)
+- [Linkdin](https://www.linkedin.com/company/yrobot/)
 
